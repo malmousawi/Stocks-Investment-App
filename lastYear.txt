@@ -1,0 +1,5 @@
+Stock Prices last year
+
+Tesla - 1 Share: £800
+Apple - 1 Share: £650
+Amazon - 1 Share: £450
